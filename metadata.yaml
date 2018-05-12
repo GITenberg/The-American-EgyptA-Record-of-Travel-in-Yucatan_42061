@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41503'
     url: http://www.gutenberg.org/2009/agents/41503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42061#The-American-EgyptA-Record-of-Travel-in-Yucatan
 gutenberg_issued: '2013-02-10'
 gutenberg_type: Text
 identifiers:
