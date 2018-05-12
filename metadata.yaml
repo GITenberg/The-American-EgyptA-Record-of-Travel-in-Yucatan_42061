@@ -1,0 +1,30 @@
+_repo: The-American-EgyptA-Record-of-Travel-in-Yucatan_42061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Arnold, Channing
+    gutenberg_agent_id: '41502'
+    url: http://www.gutenberg.org/2009/agents/41502
+  - agent_name: Frost, Frederick J. Tabor
+    gutenberg_agent_id: '41503'
+    url: http://www.gutenberg.org/2009/agents/41503
+description: ''
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42061'
+  lccn: '11016726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yucatán (Mexico : State) -- Description and travel'
+- !lcsh 'Yucatán (Mexico : State) -- Antiquities'
+- !lcsh 'Mayas'
+- !lcc 'F1201'
+title: 'The American Egypt: A Record of Travel in Yucatan'
+url: http://www.gutenberg.org/ebooks/42061
